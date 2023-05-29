@@ -1,4 +1,5 @@
 #!/bin/bash
 pip install pywebview[qt]
+wget "https://raw.githubusercontent.com/JustAnEric/hostereric/main/lightweightspotto.py?token=GHSAT0AAAAAACDHPWFTMX4KLXUGBSZDV77AZDURZ6A"
 clear;
 echo "Installation complete. Lightweight Spotify is installed."
