@@ -1,0 +1,4 @@
+#!/bin/bash
+pip install pywebview[qt]
+clear;
+echo "Installation complete. Lightweight Spotify is installed."
