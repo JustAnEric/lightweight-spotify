@@ -5,7 +5,7 @@ cd /
 sudo wget "https://raw.githubusercontent.com/JustAnEric/hostereric/main/lightweightspotto.py?token=GHSAT0AAAAAACDHPWFTMX4KLXUGBSZDV77AZDURZ6A"
 clear;
 cd /bin
-printf "echo 'Command line tool for Lightweight Spotify isn\'t supported yet. Please see the official guide.'" >> lwspotify;
+sudo printf "echo 'Command line tool for Lightweight Spotify isn\'t supported yet. Please see the official guide.'" >> lwspotify;
 sudo chmod -rw lwspotify;
 sudo chmod +x lwspotify;
 cd /
